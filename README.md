@@ -9,3 +9,5 @@ Training Data: We'll need to define some example RGB values for morning, evening
 Morning: Brighter colors, higher values in the RGB spectrum.
 Evening: Warmer tones, higher values in the red and yellow spectrum.
 Night: Darker colors, lower RGB values.
+
+under development
