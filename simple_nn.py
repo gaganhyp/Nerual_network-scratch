@@ -10,6 +10,7 @@ output_size = 3
 #Morning: Brighter colors, higher values in the RGB spectrum.
 #Evening: Warmer tones, higher values in the red and yellow spectrum.
 #Night: Darker colors, lower RGB values.
+#example nn with 3 layer 3-input neurons 3 output neurons
 
 def sigmoid(x):
 	return 1/(1+np.exp(-x))
